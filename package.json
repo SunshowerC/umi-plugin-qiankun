@@ -1,6 +1,6 @@
 {
-  "name": "@umijs/plugin-qiankun",
-  "version": "1.7.0",
+  "name": "plugin-qiankun-fixed",
+  "version": "1.7.1",
   "description": "umi plugin for qiankun",
   "repository": "umijs/umi-plugin-qiankun",
   "main": "index.js",
@@ -11,8 +11,7 @@
   ],
   "authors": [
     {
-      "name": "chencheng",
-      "email": "sorrycc@gmail.com"
+      "name": "weiyu.chen"
     }
   ],
   "engines": {
